@@ -10,7 +10,7 @@
 - [DetailActivity.java](app/src/main/java/com/example/mbi_calculator/DetailActivity.java)
 - [ResultActivity.java](app/src/main/java/com/example/mbi_calculator/ResultActivity.java)
 ---
-- [BMIResult.java](app/src/main/java/com/example/mbi_calculator/ResultActivity.java) (for intent Extra)
+- [BMIResult.java](app/src/main/java/com/example/mbi_calculator/BMIResult.java) (for intent Extra)
 
 ### Activities
 
